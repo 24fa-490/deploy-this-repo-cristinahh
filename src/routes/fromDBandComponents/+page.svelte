@@ -17,3 +17,4 @@
 <ContainerTable containers={data.containers} onContainerClicked={containerClicked} />
 
 <span class=i>Last container clicked: {clickedContainerNumber}</span>
+
